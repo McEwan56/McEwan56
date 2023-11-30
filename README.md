@@ -1,10 +1,14 @@
 # McEwan Bain - Computer Scientist 			
 
 ## EDUCATION
-Gonzaga University | Spokane, WA						  Graduation Date: May 2026
+Gonzaga University | Spokane, WA | Graduation Date: May 2026
+
 COLLEGE OF ENGINEERING AND APPLIED SCIENCES
+
 Bachelor of Science (BS), Major: Computer Science 
+
 Concentrations: Data Science, Cyber Security
+
 GPA: 3.94 | President’s List: Fall 2022 – Present
 
 ## WORK EXPERIENCE
