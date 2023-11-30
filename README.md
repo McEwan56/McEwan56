@@ -20,24 +20,25 @@ C/C++ | Java | Python | x86 Assembly |Git | GitHub | Unit Testing | Visual Studi
 Software Development								                                           Fall 2023
 - Covered topics regarding object-oriented programming, user-interface design and development, and software construction including program design, development tools, and basic concepts in software engineering through hands on projects
   
-Introduction to Data Science								                           Fall 2023
+### Introduction to Data Science								                           Fall 2023
 -	Practiced important concepts and skills in both statistical reasoning and computer programming for the purpose of analyzing real-world data sets
 -	Experience using the Python programming language, Python’s standard libraries for data science applications and computational notebooks
   
-Computer Organization 					                                                                                        Fall 2023
+### Computer Organization 					                                                                                        Fall 2023
 -	Developed skills in digital logic, computer system components, machine-level code, memory organization and management, computer arithmetic, assembly-language programming, and basic connections between high-level and low-level languages (C and assembly)
   
-Discrete Mathematics								                                           Fall 2023
+### Discrete Mathematics								                                           Fall 2023
 - Practiced mathematical techniques in propositional logic, set theory, functions, algorithms, divisibility, introductory number theory, elementary proof techniques, counting techniques, recursive definitions, mathematical induction, and graph theory
   
-Algorithms and Abstract Data Structures					                            Planned For: Spring 2024
+### Algorithms and Abstract Data Structures					                            Planned For: Spring 2024
 -	Algorithm analysis using Big-O notation, sorting, heaps, balanced binary search trees, and hash tables
 
   ## INTERESTS
-Dungeons and Dragons								       Fall 2018 – Spring 2021
+### Dungeons and Dragons								       Fall 2018 – Spring 2021
 -	Held bi-weekly meetings with a D&D group
--	Experience facilitating creative problem solving as a Dungeon Master  
-Football											                  Fall 2018-2021
+-	Experience facilitating creative problem solving as a Dungeon Master
+  
+### Football											                  Fall 2018-2021
 -	Played 4 years of high school football for the Central Catholic Rams, 2 of which were on varsity
 -	In 2021, won the Oregon 6A Football State Championship
 
