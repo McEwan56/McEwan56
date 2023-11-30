@@ -1,26 +1,23 @@
-### Hi there :P
-
-
-
-
-
-Current Resume:
-McEwan Bain 						
+# McEwan Bain - Computer Scientist 			
 mcewanbain@gmail.com | 971-777-0794 | LinkedIn: https://www.linkedin.com/in/mcewan-bain-31392228b | GitHub: https://github.com/McEwan56
-EDUCATION
+
+## EDUCATION
 Gonzaga University | Spokane, WA						  Graduation Date: May 2026
 COLLEGE OF ENGINEERING AND APPLIED SCIENCES
 Bachelor of Science (BS), Major: Computer Science 
 Concentrations: Data Science, Cyber Security
 GPA: 3.94 | President’s List: Fall 2022 – Present
-WORK EXPERIENCE
+
+## WORK EXPERIENCE
 Green Seed Construction | Portland, OR						Summer 2020 – Summer 2023
   •	Worked on a GPT 3.5 based chatbot meant to facilitate conversations between apartment managers and tenants in Python
   •	Begun development on an AI model trained on tenant data with the intent of using the model to lower energy costs for apartment complexes
   •	Performed a variety of on-site construction tasks involving the use of problem-solving skills and interpersonal teamwork with professionals of the industry
-TECHNICAL SKILLS
+
+## TECHNICAL SKILLS
 C/C++ | Java | Python | x86 Assembly |Git | GitHub | Unit Testing | Visual Studio | Java Swing | Linux | Windows |
-RELEVANT COURSES
+
+## RELEVANT COURSES
 Software Development								                                           Fall 2023
   •	Covered topics regarding object-oriented programming, user-interface design and 
     development, and software construction including program design, development tools, and 
@@ -37,7 +34,7 @@ Discrete Mathematics								                                           Fall 2023
     counting techniques, recursive definitions, mathematical induction, and graph theory
 Algorithms and Abstract Data Structures					                            Planned For: Spring 2024
   •	Algorithm analysis using Big-O notation, sorting, heaps, balanced binary search trees, and hash tables
-INTERESTS
+  ## INTERESTS
 Dungeons and Dragons								       Fall 2018 – Spring 2021
   •	Held bi-weekly meetings with a D&D group
   •	Experience facilitating creative problem solving as a Dungeon Master  
