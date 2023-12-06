@@ -20,6 +20,12 @@ Green Seed Construction | Portland, OR -> Summer 2020 – Summer 2023
 ## TECHNICAL SKILLS
 C/C++ | Java | Python | x86 Assembly |Git | GitHub | Unit Testing | Visual Studio | Java Swing | Linux | Windows |
 
+## PROJECTS
+### South Park Themed Poker -> Fall 2023
+- Worked with 2 team members on an adaptation of Poker using the Texas Hold’Em rule set, developed in Java with Swing.
+- Supports between 2 and 7 players and features functioning betting system, automatic scoring, unique player icons, background music, and an option to play by rounds or until all but one player busts.
+- Can be found at: https://github.com/GU-2023-Fall-CPSC224/final-game-project-eric-crandall-poker-face
+
 ## RELEVANT COURSES
 ### Software Development -> Fall 2023
 - Covered topics regarding object-oriented programming, user-interface design and development, and software construction including program design, development tools, and basic concepts in software engineering through hands on projects
