@@ -7,8 +7,6 @@ COLLEGE OF ENGINEERING AND APPLIED SCIENCES
 
 Bachelor of Science (BS), Major: Computer Engineering 
 
-Concentrations: Data Science, Cyber Security
-
 GPA: 3.94 | President’s List: Fall 2022 – Present
 
 ## WORK EXPERIENCE
