@@ -50,7 +50,7 @@ C/C++ | Java | Python | x86 Assembly |Git | GitHub | Unit Testing | Visual Studi
   ## INTERESTS
 ### Dungeons and Dragons -> Fall 2018 – Spring 2021
 -	Held bi-weekly meetings with a D&D group
--	Experience facilitating creative problem solving as a Dungeon Master
+-	Experience planning adventures and facilitating creative problem solving as a Dungeon Master
   
 ### Football -> Fall 2018-2021
 -	Played 4 years of high school football for the Central Catholic Rams, 2 of which were on varsity
