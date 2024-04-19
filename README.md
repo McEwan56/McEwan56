@@ -5,7 +5,7 @@ Gonzaga University | Spokane, WA | Graduation Date: May 2026
 
 COLLEGE OF ENGINEERING AND APPLIED SCIENCES
 
-Bachelor of Science (BS), Major: Computer Science 
+Bachelor of Science (BS), Major: Computer Engineering 
 
 Concentrations: Data Science, Cyber Security
 
