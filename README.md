@@ -12,6 +12,10 @@ Concentrations: Data Science, Cyber Security
 GPA: 3.94 | President’s List: Fall 2022 – Present
 
 ## WORK EXPERIENCE
+Gonzaga University Information Technology Services | Spokane, WA Spring 2024
+- Collaborate with team leads from the technology department in ensuring an optimal network experience for students, staff, faculty, and guests
+- Assist with configuring and installing network infrastructure as part of a multi-million-dollar network upgrade
+
 Green Seed Construction | Portland, OR -> Summer 2020 – Summer 2023
 - Worked on a GPT 3.5 based chatbot meant to facilitate conversations between apartment managers and tenants in Python
 -	Begun development on an AI model trained on tenant data with the intent of using the model to lower energy costs for apartment complexes
@@ -40,7 +44,7 @@ C/C++ | Java | Python | x86 Assembly |Git | GitHub | Unit Testing | Visual Studi
 ### Discrete Mathematics -> Fall 2023
 - Practiced mathematical techniques in propositional logic, set theory, functions, algorithms, divisibility, introductory number theory, elementary proof techniques, counting techniques, recursive definitions, mathematical induction, and graph theory
   
-### Algorithms and Abstract Data Structures	-> Planned For: Spring 2024
+### Algorithms and Abstract Data Structures	-> Spring 2024
 -	Algorithm analysis using Big-O notation, sorting, heaps, balanced binary search trees, and hash tables
 
   ## INTERESTS
