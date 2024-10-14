@@ -1,4 +1,4 @@
-# McEwan Bain - Computer Scientist 			
+# McEwan Bain - Computer Engineer 			
 
 ## EDUCATION
 Gonzaga University | Spokane, WA | Graduation Date: May 2026
