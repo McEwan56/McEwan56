@@ -7,10 +7,10 @@ COLLEGE OF ENGINEERING AND APPLIED SCIENCES
 
 Bachelor of Science (BS), Major: Computer Engineering 
 
-GPA: 3.94 | President’s List: Fall 2022 – Present
+GPA: 3.92 | President’s List: Fall 2022 – Present
 
 ## WORK EXPERIENCE
-Gonzaga University Information Technology Services | Spokane, WA Spring 2024
+Gonzaga University Information Technology Services | Spokane, WA Spring 2024 - Current
 - Collaborate with team leads from the technology department in ensuring an optimal network experience for students, staff, faculty, and guests
 - Assist with configuring and installing network infrastructure as part of a multi-million-dollar network upgrade
 
@@ -20,7 +20,7 @@ Green Seed Construction | Portland, OR -> Summer 2020 – Summer 2023
 - Performed a variety of on-site construction tasks involving the use of problem-solving skills and interpersonal teamwork with professionals of the industry
 
 ## TECHNICAL SKILLS
-C/C++ | Java | Python | x86 Assembly |Git | GitHub | Unit Testing | Visual Studio | Java Swing | Linux | Windows |
+C/C++ | Java | Python | x86 Assembly |Git | GitHub | Unit Testing | Visual Studio | Java Swing | Linux | Windows | SQL | Verilog | Relation Database Model | Linux Kernel | Aruba Networking Equipment |     LT Spice | MATLAB | Embedded Systems
 
 ## PROJECTS
 ### South Park Themed Poker -> Fall 2023
