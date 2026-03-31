@@ -1,4 +1,4 @@
-# McEwan Bain - Computer Engineer 			
+# McEwan Bain - Electrical and Computer Engineer 			
 
 ## EDUCATION
 Gonzaga University | Spokane, WA | Graduation Date: May 2026
@@ -24,7 +24,7 @@ GPA: 3.83
 - Performed a variety of on-site construction tasks involving the use of problem-solving skills and interpersonal teamwork with professionals of the industry
 
 ## TECHNICAL SKILLS
-C/C++ | Java | Python | x86 Assembly |Git | GitHub | Unit Testing | Visual Studio | Java Swing | Linux | Windows | SQL | Verilog | Relation Database Model | Linux Kernel | Aruba Networking Equipment | LT Spice | MATLAB | Embedded Systems
+C/C++ | Java | Python | x86 Assembly |Git | GitHub | Unit Testing | Visual Studio | Java Swing | Linux | Windows | SQL | Verilog | Relation Database Model | Linux Kernel | Aruba Networking Equipment | LT Spice | MATLAB | Embedded Systems | Electronic SystemDesign | Computer Networking |OrCAD | Embedded Systems | Digital System Design | Allegro
 
 ## PROJECTS
 ### Itron Universal Sensor Board
@@ -45,15 +45,14 @@ C/C++ | Java | Python | x86 Assembly |Git | GitHub | Unit Testing | Visual Studi
 - Computed average codeword length and coding efficiency for the first several extensions
 
 ### Simple Unix Shell
-- This project consists of designing a C program to serve as a shell interface that accepts user commands and then executes
-each command in a separate process
+- This project consists of designing a C program to serve as a shell interface that accepts user commands and then executes each command in a separate process
 
 ### South Park Themed Poker -> Fall 2023
 - Worked with 2 team members on an adaptation of Poker using the Texas Hold’Em rule set, developed in Java with Swing.
 - Supports between 2 and 7 players and features functioning betting system, automatic scoring, unique player icons, background music, and an option to play by rounds or until all but one player busts.
 - Can be found at: https://github.com/GU-2023-Fall-CPSC224/final-game-project-eric-crandall-poker-face
 
-  ## INTERESTS
+## INTERESTS
 ### Dungeons and Dragons
 ### Football
 ### Snowboarding
